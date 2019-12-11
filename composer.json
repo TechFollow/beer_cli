@@ -1,0 +1,18 @@
+{
+    "name": "tech_follow/test_cli",
+    "description": "test de compoetence ligne de commande",
+    "type": "project",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Yoan Durand",
+            "email": "yoan@follow.fr"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "BeerCli\\": "src/"
+        }
+    },
+    "require": {}
+}
