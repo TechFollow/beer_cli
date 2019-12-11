@@ -4,7 +4,10 @@ Cette CLI prend en parametre obligatoire un fichier utiliser celui fournit(open-
 
 Cette cli possede plusieurs commande possible.
 
-Cette cli sera faite en pure PHP, sans framework, suivre les recommandations PSR12 pour le code style. 
+Cette cli sera faite en pure PHP, sans framework, suivre les recommandations PSR12 pour le code style. Il est tout a fait possible d'utiliser des dependances tierces a l'aide de composer. 
+
+**Prerequis**
+> Avoir php et composer d'installer sur la machine. 
 
 ## Strongest Beer
 Remonter la/les  biere(s) la plus forte.
